@@ -11,6 +11,7 @@
 		BD3052772A376B04003F9F3F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3052762A376B04003F9F3F /* ContentView.swift */; };
 		BD3052792A376B05003F9F3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD3052782A376B05003F9F3F /* Assets.xcassets */; };
 		BD30527C2A376B05003F9F3F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD30527B2A376B05003F9F3F /* Preview Assets.xcassets */; };
+		BD3052832A376F6F003F9F3F /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3052822A376F6F003F9F3F /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BD3052762A376B04003F9F3F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD3052782A376B05003F9F3F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD30527B2A376B05003F9F3F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD3052822A376F6F003F9F3F /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BD3052742A376B04003F9F3F /* GitHub_PracticeApp.swift */,
 				BD3052762A376B04003F9F3F /* ContentView.swift */,
+				BD3052822A376F6F003F9F3F /* SecondView.swift */,
 				BD3052782A376B05003F9F3F /* Assets.xcassets */,
 				BD30527A2A376B05003F9F3F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD3052832A376F6F003F9F3F /* SecondView.swift in Sources */,
 				BD3052772A376B04003F9F3F /* ContentView.swift in Sources */,
 				BD3052752A376B04003F9F3F /* GitHub_PracticeApp.swift in Sources */,
 			);

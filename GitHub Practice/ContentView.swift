@@ -9,10 +9,14 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Text("Practice commiting/sending and sharing")
+        NavigationStack {
+            VStack{
+                NavigationLink(destination: SecondView()) {
+                    Text("Click Here")
+                }
+            }
         }
-        .padding()
+        
     }
 }
 
